@@ -1,3 +1,7 @@
 ffmpeg
 libsm6
 libxext6
+libatlas-base-dev
+libopenjp2-7
+libtiff5
+libjpeg62-dev
